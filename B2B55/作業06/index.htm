@@ -44,32 +44,18 @@
     showSum(100);
     showSum(1000);
     showSum(10000);
+
     document.write("<div>以下為九九乘法表</div>");
-
-    function nTimeNtalbe(n){
-        for(i=1;i<=n;i++){
-            for(j=1;j<=n;j++){
-                document.write(i + "X" + j + "=" + i*j +"   ");
+    function nTimesNtable(n){
+        for (i = 1; i <=n; i++) {
+            for (j = 1; j <=n; j++) {
+                document.write(i + "*" + j + "=" + i * j + "<br>");
             }
-            document.write("<br>");
+            document.write("</br>");
         }
-    }
-    nTimeNtable(9);
-
-<<<<<<< HEAD
-</script>
-=======
-	document.write("<div>以下為九九乘法表</div>");
-	function nTimeNtable(n){
-		for ( i = 1; i <= n; i++){
-			for ( j = 1; j <= n; j++){
-			document.write(i + "X" + j + "=" + i*j + "	");
-			}
-			document.write("<br>");
-		}
-	}
-		nTimeNtable(9);
+        document.write("</br>");
+        }
+        nTimesNtable(9);
 	</script>
->>>>>>> 8d87ec6fc97828132295d01cc5b85f7e8c9883a4
 </body>
 </html>
