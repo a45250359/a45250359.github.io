@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38c43898-4573-4bfa-9bcb-f46a0297b64f" name="Changes" comment="" />
+    <list default="true" id="38c43898-4573-4bfa-9bcb-f46a0297b64f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/B2B55/作業13/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/B2B55/作業13/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
